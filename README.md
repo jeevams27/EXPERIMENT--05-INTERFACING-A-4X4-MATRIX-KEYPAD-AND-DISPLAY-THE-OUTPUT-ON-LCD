@@ -45,7 +45,7 @@ Whereas in 8 bit mode we can send the 8-bit data directly in one stroke since we
  8-bit mode is faster and flawless than 4-bit mode. But the major drawback is that it needs 8 data lines connected to the microcontroller. This will make us run out of I/O pins on our MCU, so 4-bit mode is widely used. No control pins are used to set these modes. 
  LCD Commands:
 
-There are some preset commands instructions in LCD, which we need to send to LCD through some microcontroller. Some important command instructions are given below:
+There are some preset commands instructions in LCD, which we need to send to LCD through some microcontroller. Some important command instructions are given below:.
 
 Hex Code
 
